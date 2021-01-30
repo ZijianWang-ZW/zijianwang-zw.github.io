@@ -1,1 +1,3 @@
-Try first website
+---
+layout: home
+---
