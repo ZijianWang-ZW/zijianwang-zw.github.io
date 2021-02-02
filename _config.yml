@@ -8,12 +8,13 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://zijianwang1995.github.io/ # site repo [optional]
 mode: light # default theme "dark" | "light"
 
+
 # Profile settings
+# Ph.D. candidate at Technion-Israel Insitute of Technology 
 author:
   name: Zijian Wang # author name
   bio: >-
-    Ph.D. candidate at Technion-Israel Insitute of Technology <br />  
-    Building Information Modeling (BIM) & Computer Vision (CV)
+    Building Information Modeling (BIM) <br />   Computer Vision (CV)
   username: Zijian Wang # general username
   github: zijianwang1995 # github username
   twitter: twitter_username # twitter username

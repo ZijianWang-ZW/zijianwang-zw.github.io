@@ -281,7 +281,7 @@
   }
   a.footer_item {
     color: $black;
-    opacity: 0.8;
+    opacity: 1;
     text-decoration: none;
 
     &:not(:last-child) {
@@ -393,8 +393,21 @@
   height: 100px;
   line-height: 25px;
   overflow: hidden;
-  font-size: large;
+  // font-size: large;
   // font-weight: bold;
   // opacity:100;
   margin-bottom: 40px;
   }
+
+.w{
+  font-size: 20pt;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.ww{
+  color: $black;
+  opacity: 1;
+  // font-weight: bold;
+  // line-height: 30px;
+}
