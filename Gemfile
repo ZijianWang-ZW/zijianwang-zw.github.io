@@ -32,3 +32,4 @@ end
 
 # Performance-booster for watching directories on Windows
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
+bundler: failed to load command: jekyll (/usr/local/lib/ruby/gems/3.0.0/bin/jekyll)
