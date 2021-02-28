@@ -2,17 +2,25 @@
 title: Publications
 permalink: /publications/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false 
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+## Graduate Project: Temperature Distribution in Cold-region Tunnels
+Peng X., Yimin W., **Zijian W.\***, Le H., 2020. Distribution laws of freeze-thaw cycles and unsaturated concrete experiment in cold-region tunnels. *Cold Reg. Sci. Technol*. 102985. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102985)
 
-**may u needs ✨**
+Yimin W., Peng X.\*, Wenbo Li, **Zijian W.**, Zhiyan C., Shuai S., 2020. Distribution rules and key features for the lining surface temperature of road tunnels in cold regions. *Cold Reg. Sci. Technol.* 102985. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102979)
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+<img src="./tunneltemp.png" alt="Tunnel temperature curves"/>
+* **Analyzed 1 million pieces of temperature data by Python, revealed the distribution laws of freeze-thaw cycles inside a tunnel, proposed new design parameters for frozen damage**
+
+
+
+## Udergraduate Project: Tunnel 3D Reconstruction
+
+**Zijian W.**, Hongfei M., Yidan X., Qiupeng Y., Jiayan Z\*., 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+
+
+<img src="./tunnel3D.png" alt="Tunnel 3D"/>
+* **Reconstructed the 3D image of tunnels by PhotoScan software, measured the distances of two points in a 3D image**

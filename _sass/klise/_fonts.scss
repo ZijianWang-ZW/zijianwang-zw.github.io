@@ -713,8 +713,12 @@
 
 
 
+
+
+///////////////// Online ///////////
+
 .footer-basic {
-  padding:40px 0;
+  padding:40px 10px;
   background-color:#ffffff;
   color:#4b4c4d;
   text-align: center;
@@ -750,20 +754,20 @@
 
 .footer-basic .social {
   text-align:center;
-  padding-bottom:25px;
+  // padding-bottom:25px;
 }
 
 .footer-basic .social > a {
   font-size:24px;
-  width:60px;
-  height:60px;
+  width:45px;
+  height:45px;
   // right:30px;
-  line-height:40px;
+  // line-height:40px;
   display:inline-block;
   text-align:center;
   // border-radius:50%;
   // border:1px solid #ccc;
-  margin:0 8px;
+  margin: 30px;
   color:inherit;
   opacity:1;
 }
@@ -779,5 +783,5 @@
   text-align:center;
   font-size:15px;
   color:#aaa;
-  margin-bottom:0;
+  margin-bottom:10px;
 }
