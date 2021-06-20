@@ -1,135 +1,17 @@
-<!-- <!DOCTYPE html>
-<html>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Untitled</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-
-<body>
-    <div class="footer-basic">
-        <footer>
-            <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
-            <ul class="list-inline">
-                <li class="list-inline-item"><a href="#">Home</a></li>
-                <li class="list-inline-item"><a href="#">Services</a></li>
-                <li class="list-inline-item"><a href="#">About</a></li>
-                <li class="list-inline-item"><a href="#">Terms</a></li>
-                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
-            </ul>
-            <p class="copyright">Company Name © 2018</p>
-        </footer>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html> -->
-
-
-
-
-
-
-<!-- 
-
-
-<body>
-    <div class="footer-basic">
-        <footer>
-            <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
-            <ul class="list-inline">
-                <li class="list-inline-item"><a href="#">Home</a></li>
-                <li class="list-inline-item"><a href="#">Services</a></li>
-                <li class="list-inline-item"><a href="#">About</a></li>
-                <li class="list-inline-item"><a href="#">Terms</a></li>
-                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
-            </ul>
-            <p class="copyright">Company Name © 2018</p>
-        </footer>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
-</body>
-
-<div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
-
- -->
-
-
-
-
-
-
-<!-- <body> -->
-  <div class="footer-basic">
-    <footer class="footer-basic">
-      <p class='w'> Contact</p>
-      <p> <a href="mailto:zijianwang1995@gmail.com">  zijianwang1995@gmail.com  </a></p>   
-      <p> <a href="mailto:zijian.wang@campus.technion.ac.il ">  zijian.wang@campus.technion.ac.il </a></p>   
-    
-    
-      <div class="social"><a href="https://scholar.google.com/citations?user=5lhWReYAAAAJ&hl=en"><img src="../assets/img/google.png"/></a>
-        <a href="https://github.com/ZijianWang1995"><img src="../assets/img/GitHub.png"/></a>
-        <a href="https://www.researchgate.net/profile/Zijian_Wang42"><img src="../assets/img/rg.png"/></i></a>
-        <a href="https://www.linkedin.com/in/zijian-wang-49b692202/"><img src="../assets/img/linkedin.png"/></i></a></div>
-      <!-- <a class="footer_item" href="https://scholar.google.com/citations?user=5lhWReYAAAAJ&hl=en">Google Scholar</a>
-      <a class="footer_item" href="https://github.com/ZijianWang1995">GitHub</a>
-      <a class="footer_item" href="https://www.researchgate.net/profile/Zijian_Wang42">Research Gate</a>
-      <a class="footer_item" href="https://www.linkedin.com/in/zijian-wang-49b692202/">LinkedIn</a> -->
-      <p class="copyright">&copy; {{ site.time | date: "%Y" }}</p>
-    </footer>
-  </div>
-<!-- </body> -->
-
-
-
- 
-
-<script src="/assets/js/main.js" defer="defer"></script>
-
-{%- if page.google_analytics -%}
-  <script src="/assets/js/galite.js"></script>
-  <script>
-    var galite = galite || {};
-    galite.UA = "{{ site.google_analytics }}";
-  </script>
-{%- endif -%}
-{%- if page.url == '/blog/' -%}
-  <script src="/assets/js/search.min.js"></script>
-  <script>
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('search-results'),
-      json: '/assets/search.json',
-    });
-  </script>
-{%- endif -%}
-
-
-
-
-
-
-
-
-
-
-<!-- <footer class="footer">
-  <p class='w'> Contact</p>
-  <p> <a href="zijianwang1995@gmail.com">  zijianwang1995@gmail.com  </a></p>   
-  <p> <a href="zijian.wang@campus.technion.ac.il ">  zijian.wang@campus.technion.ac.il </a></p>   
-
-
-  <a class="footer_item" href="https://scholar.google.com/citations?user=5lhWReYAAAAJ&hl=en">Google Scholar</a>
-  <a class="footer_item" href="https://github.com/ZijianWang1995">GitHub</a>
-  <a class="footer_item" href="https://www.researchgate.net/profile/Zijian_Wang42">Research Gate</a>
-  <a class="footer_item" href="https://www.linkedin.com/in/zijian-wang-49b692202/">LinkedIn</a>
-  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+<footer class="footer">
+  <p class='w'> <a href="mailto:zijianwang1995@gmail.com"> Contact</p> 
+  <p> <br /> </p>
+  <!-- <p> <a href="zijianwang1995@gmail.com">  <img src="../assets/img/email.png"/> </a></p>   
+  <p> <a href="zijian.wang@campus.technion.ac.il ">  zijian.wang@campus.technion.ac.il </a></p>    -->
+  <a class="footer_item" href="mailto:zijian.wang@campus.technion.ac.il"><img src="../assets/img/email.png"/> </a>
+  <a class="footer_item" href="https://scholar.google.com/citations?user=5lhWReYAAAAJ&hl=en"><img src="../assets/img/google.png"/></a>
+  <a class="footer_item" href="https://github.com/ZijianWang1995"><img src="../assets/img/GitHub.png"/></a>
+  <a class="footer_item" href="https://www.researchgate.net/profile/Zijian_Wang42"><img src="../assets/img/rg.png"/></a>
+  <a class="footer_item" href="https://www.linkedin.com/in/zijian-wang-49b692202/"><img src="../assets/img/linkedin.png"/></a> 
+  <!-- <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span> -->
+  <p> <br /> </p>
+  <p class="copyright">&copy; {{ site.time | date: "%Y" }}</p>
 </footer>
 
  
@@ -152,5 +34,6 @@
       json: '/assets/search.json',
     });
   </script>
-{%- endif -%} -->
+{%- endif -%}
+
 

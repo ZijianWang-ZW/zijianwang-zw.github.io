@@ -278,16 +278,23 @@
     opacity: 0.8;
     font-weight: $bold-weight;
     font-size: $small-font-size;
+    width:45px;
+    height:45px;
+    margin: 30px;
   }
   a.footer_item {
     color: $black;
     opacity: 1;
     text-decoration: none;
+    width:45px;
+    height:45px;
+    margin: 30px;
 
     &:not(:last-child) {
       margin-right: 10px;
       &:hover {
         opacity: 1;
+
       }
     }
   }
@@ -383,20 +390,21 @@
 
 .block img{
   float: left;
-  margin-right: 30px;
+  margin-left: 50px;
+  margin-right: 40px;
   // margin-bottom: 15px;
-  width: 110px;
-  height: 110px;
+  width: 60px;
+  height: 60px;
 }
 .block p{
   // width: 200px;
-  height: 100px;
+  height: 60px;
   line-height: 25px;
   overflow: hidden;
   // font-size: large;
   // font-weight: bold;
   // opacity:100;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   }
 
 .w{
