@@ -7,7 +7,8 @@ comments: false
 ### Graduate Project: Personal Protective Equipment (PPE) Detection
 **4.** 
 **Wang, Z.**, Wu, Y., Yang, L., Thirunavukarasu, A., Evison, C., & Zhao, Y. (2021). Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches. *Sensors*, 21(10), 3478. [Paper link](https://doi.org/10.3390/s21103478), [Dataset in Github](https://github.com/ZijianWang1995/PPE_detection)
-<div align=center><img src="ppe.PNG" width="60%" /></div>
+
+<div align=center><img src="ppe.png" width="90%" /></div>
 *Using deep leanring models to detect multi PPE classes with high accuracy and efficiency*
 
 ***
@@ -19,6 +20,7 @@ comments: false
 **3.** Peng, X., Yimin, W., **Zijian, W.\*** and Le, H., 2020. Distribution laws of freeze-thaw cycles and unsaturated concrete experiments in cold-region tunnels. *Cold Regions Science and Technology*, 172, p.102985. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102985)
 
 **2.**  Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution rules and key features for the lining surface temperature of road tunnels in cold regions. *Cold regions science and technology*, 172, p.102979. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102979) 
+
 <div align=center><img src="tunneltemp.png" width="60%" /></div>
 *Analyzed one million pieces of temperature data by Python, revealed the distribution laws of freeze-thaw cycles inside a tunnel*
 
