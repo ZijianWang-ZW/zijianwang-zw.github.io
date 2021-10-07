@@ -11,7 +11,6 @@ comments: false
 <div align=center><img src="gnnrm.png" width="90%" /><br />
 Using graph neural networks to classify room types of BIM graphs for semantic enrichment
 </div>
-
 ### Graduate Project: Personal Protective Equipment (PPE) Detection
 
 **4.** 
