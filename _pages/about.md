@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2022), advised by [Dr. Yifan Zhao](https://www.cranfield.ac.uk/people/dr-yifan-zhao-1337015). He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University, where he visited Nagaoka University of Technology in Japan and Thammasat University in Thailand (2014 - 2018). 
+Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2022). He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited Nagaoka University of Technology in Japan (2017) and Thammasat University in Thailand (2018). 
 
 As an interdisciplinary researcher, he has strong background in both civil engineering and computer vision, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
 
@@ -23,6 +23,8 @@ Research Interests
 
 
 <br/>
+
+
 News
 ======
 Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction.
@@ -38,6 +40,8 @@ Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020
 
 
 <br/>
+
+
 Publications
 ======
 
@@ -70,6 +74,8 @@ Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution r
 
 
 <br/>
+
+
 Who is Zijian?
 ======
 
