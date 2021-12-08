@@ -13,7 +13,7 @@ As an interdisciplinary researcher, he has strong background in both civil engin
 
 
 
-
+<br/>
 
 
 Research Interests
@@ -22,9 +22,7 @@ Research Interests
 
 
 
-
-
-
+<br/>
 News
 ======
 Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction.
@@ -39,9 +37,7 @@ Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020
 
 
 
-
-
-
+<br/>
 Publications
 ======
 
@@ -73,9 +69,7 @@ Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution r
 
 
 
-
-
-
+<br/>
 Who is Zijian?
 ======
 
