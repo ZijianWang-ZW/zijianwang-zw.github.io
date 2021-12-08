@@ -12,9 +12,17 @@ Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute 
 As an interdisciplinary researcher, he has strong background in both civil engineering and computer vision, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
 
 
+
+
+
+
 Research Interests
 ======
-**Graph in BIM.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
+**Graph in BIM.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
+
+
+
+
 
 
 News
@@ -28,6 +36,10 @@ Oct. 14, 2021: Obtained the [Eastman Best PhD Paper](https://www.linkedin.com/po
 Sept. 5, 2021: Delivered a seminar about PhD research proposal at the Technion ([recording](https://www.youtube.com/watch?v=FPUmSKJYbcs&ab_channel=VirtualConstructionLabTechnion))
 
 Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a PhD student at the Technion - Israel Institute of Technology
+
+
+
+
 
 
 Publications
@@ -58,3 +70,13 @@ Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution r
 ### Undergraduate Project: Tunnel 3D Reconstruction
 
 **Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*., 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+
+
+
+
+
+
+Who is Zijian?
+======
+
+[![IA short video for applying UK Great Scholarship (2019)](https://img.youtube.com/vi/SE1dqVz-3uI/0.jpg)](https://www.youtube.com/watch?v=SE1dqVz-3uI)
