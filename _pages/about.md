@@ -26,8 +26,6 @@ Research Interests
 
 <br/>
 
-<br/>
-
 
 News
 ======
@@ -41,7 +39,7 @@ Sept. 5, 2021: Delivered a seminar about my Ph.D. research proposal at the Techn
 
 Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a Ph.D. student at the Technion
 
-<br/>
+
 
 <br/>
 
@@ -76,8 +74,6 @@ Wu, Y., Xu, P.\*, Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution
 **Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*, 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
 
 
-
-<br/>
 
 <br/>
 
