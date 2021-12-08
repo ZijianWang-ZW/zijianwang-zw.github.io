@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Zijian"
+title: ""
 excerpt: "Welcome to my website"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
