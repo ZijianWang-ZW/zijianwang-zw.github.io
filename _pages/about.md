@@ -9,7 +9,7 @@ redirect_from:
 ---
 Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2020). He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited Nagaoka University of Technology in Japan (2017) and Thammasat University in Thailand (2018). 
 
-As an interdisciplinary researcher, he has strong background in both civil engineering and computer vision, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
+As an interdisciplinary researcher, he has strong background in both civil engineering and machine learning, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
 
 
 
@@ -31,15 +31,13 @@ News
 ======
 Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction
 
-Nov. 17, 2021: Defensed my PhD research proposal successfully, became a PhD candidate at the Technion
+Nov. 17, 2021: Defensed my PhD research proposal successfully. Became a Ph.D. candidate at the Technion
 
-Oct. 14, 2021: Obtained the [Eastman Best PhD Paper](https://www.linkedin.com/posts/cbim2020_cbim-bim-gnn-activity-6855036208762912768-vDRI) at the LDAC-CIB W78 2021 Conference ([paper](https://cbim2020.net.technion.ac.il/files/2021/10/w78-2021-paper-077.pdf))
+Oct. 14, 2021: Obtained the [Eastman Best Ph.D. Paper](https://www.linkedin.com/posts/cbim2020_cbim-bim-gnn-activity-6855036208762912768-vDRI) at the LDAC-CIB W78 2021 Conference ([paper](https://cbim2020.net.technion.ac.il/files/2021/10/w78-2021-paper-077.pdf))
 
-Sept. 5, 2021: Delivered a seminar about PhD research proposal at the Technion ([recording](https://www.youtube.com/watch?v=FPUmSKJYbcs&ab_channel=VirtualConstructionLabTechnion))
+Sept. 5, 2021: Delivered a seminar about my Ph.D. research proposal at the Technion ([recording](https://www.youtube.com/watch?v=FPUmSKJYbcs&ab_channel=VirtualConstructionLabTechnion))
 
-Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a PhD student at the Technion - Israel Institute of Technology
-
-
+Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a Ph.D. student at the Technion
 
 <br/>
 
