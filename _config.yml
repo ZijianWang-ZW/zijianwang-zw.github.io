@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijian Personal Web"
+title                    : "Zijian Homepage"
 title_separator          : ""
 name                     : &name "Zijian Wang"
 description              : &description "personal academic website"
