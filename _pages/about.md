@@ -49,21 +49,21 @@ Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020
 Publications
 ======
 
-### Ph.D. Project: Graph Representation of BIM models
+*Ph.D. Project: **Graph Representation of BIM Models***
 
-**Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908)
+**Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
 **Wang, Z.**, Yeung, T., Sacks, R. and Su, Z., 2021, October. Room Type Classification for Semantic Enrichment of Building Information Modeling Using Graph Neural Networks. In *Proc. of the Conference CIB W78* (Vol. 2021, pp. 11-15). [Paper link](http://itc.scix.net/paper/w78-2021-paper-077)
 
 
 
-### Graduate Project: Personal Protective Equipment (PPE) Detection
+*Graduate Project: **PPE Detection by Deep Learning***
 
 **Wang, Z.**, Wu, Y., Yang, L., Thirunavukarasu, A., Evison, C. and Zhao, Y., 2021. Fast personal protective equipment detection for real construction sites using deep learning approaches. *Sensors*, *21*(10), p.3478. [Paper link](https://doi.org/10.3390/s21103478), [Dataset in GitHub](https://github.com/ZijianWang1995/PPE_detection)
 
 
 
-### Graduate Project: Temperature Distribution in Cold-region Tunnels
+*Graduate Project: **Temperature Distribution in Cold-region Tunnels***
 
 Peng, X., Yimin, W., **Wang, Z.\*** and Le, H., 2020. Distribution laws of freeze-thaw cycles and unsaturated concrete experiments in cold-region tunnels. *Cold Regions Science and Technology*, 172, p.102985. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102985)
 
@@ -71,9 +71,9 @@ Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution r
 
 
 
-### Undergraduate Project: Tunnel 3D Reconstruction
+*Undergraduate Project: **Tunnel 3D Reconstruction***
 
-**Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*., 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+**Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*, 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
 
 
 
