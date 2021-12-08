@@ -18,7 +18,7 @@ As an interdisciplinary researcher, he has strong background in both civil engin
 
 Research Interests
 ======
-**Graph in BIM.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
+**AI in BIM Graph.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
 
 
 
@@ -29,7 +29,7 @@ Research Interests
 
 News
 ======
-Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction.
+Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction
 
 Nov. 17, 2021: Defensed my PhD research proposal successfully, became a PhD candidate at the Technion
 
@@ -59,7 +59,7 @@ Publications
 
 ### Graduate Project: Personal Protective Equipment (PPE) Detection
 
-**Wang, Z.**, Wu, Y., Yang, L., Thirunavukarasu, A., Evison, C. and Zhao, Y., 2021. Fast personal protective equipment detection for real construction sites using deep learning approaches. *Sensors*, *21*(10), p.3478.[Paper link](https://doi.org/10.3390/s21103478), [Dataset in GitHub](https://github.com/ZijianWang1995/PPE_detection)
+**Wang, Z.**, Wu, Y., Yang, L., Thirunavukarasu, A., Evison, C. and Zhao, Y., 2021. Fast personal protective equipment detection for real construction sites using deep learning approaches. *Sensors*, *21*(10), p.3478. [Paper link](https://doi.org/10.3390/s21103478), [Dataset in GitHub](https://github.com/ZijianWang1995/PPE_detection)
 
 
 

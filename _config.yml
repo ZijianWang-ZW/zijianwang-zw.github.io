@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Zijian personal website!"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Zijian Wang"
-description              : &description "personal website"
+description              : &description "personal academic website"
 url                      : https://zijianwang1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
