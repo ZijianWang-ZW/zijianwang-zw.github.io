@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2022). He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited Nagaoka University of Technology in Japan (2017) and Thammasat University in Thailand (2018). 
+Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2020). He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited Nagaoka University of Technology in Japan (2017) and Thammasat University in Thailand (2018). 
 
 As an interdisciplinary researcher, he has strong background in both civil engineering and computer vision, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
 
@@ -21,6 +21,8 @@ Research Interests
 **Graph in BIM.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
 
 
+
+<br/>
 
 <br/>
 
@@ -38,6 +40,8 @@ Sept. 5, 2021: Delivered a seminar about PhD research proposal at the Technion (
 Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a PhD student at the Technion - Israel Institute of Technology
 
 
+
+<br/>
 
 <br/>
 
@@ -72,6 +76,8 @@ Wu, Y., Xu, P., Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution r
 **Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*., 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
 
 
+
+<br/>
 
 <br/>
 
