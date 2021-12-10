@@ -51,6 +51,12 @@ Publications
 
 ​                     ***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
+
+
+-------------------------
+
+    ***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
+
  1. **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
  2. **Wang, Z.**, Yeung, T., Sacks, R.\* and Su, Z., 2021, October. Room Type Classification for Semantic Enrichment of Building Information Modeling Using Graph Neural Networks. In *Proc. of the Conference CIB W78* (Vol. 2021, pp. 11-15). **Best Paper Award** [Paper link](http://itc.scix.net/paper/w78-2021-paper-077)
