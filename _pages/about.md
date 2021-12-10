@@ -47,7 +47,7 @@ Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020
 Publications
 ======
 
-​	***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
+​		***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
  1. **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
@@ -67,7 +67,7 @@ Publications
 
 5. Wu, Y., Xu, P.\*, Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution rules and key features for the lining surface temperature of road tunnels in cold regions. *Cold regions science and technology*, 172, p.102979. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102979)
 
-   -----------------------------------------------------------------
+   ---------------------------------------------------------------------------
 
    ***Tunnel 3D Reconstruction**  (Undergraduate Project at CQJTU)*
 
