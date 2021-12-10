@@ -47,9 +47,9 @@ Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020
 Publications
 ======
 
- ***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
+   ***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
-​		***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
+​                     ***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
  1. **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
