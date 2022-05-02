@@ -29,6 +29,8 @@ Research Interests
 
 News
 ======
+April 10, 2022, Started to visit [CIT lab](https://cit.eng.cam.ac.uk/) at the University of Cambridge
+
 Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction
 
 Nov. 17, 2021: Defensed my PhD research proposal successfully. Became a Ph.D. candidate at the Technion
