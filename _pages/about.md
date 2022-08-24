@@ -82,9 +82,3 @@ Publications
 --------------------------------------------------------------------------------------
 
 <br/>
-
-
-Who is Zijian?
-======
-
-[![IA short video for applying UK Great Scholarship (2019)](https://img.youtube.com/vi/SE1dqVz-3uI/0.jpg)](https://www.youtube.com/watch?v=SE1dqVz-3uI)
