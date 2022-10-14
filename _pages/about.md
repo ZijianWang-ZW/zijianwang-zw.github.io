@@ -29,6 +29,8 @@ Research Interests
 
 News
 ======
+Oct. 8, 2022, Started to visit [CMS chair](https://www.cee.ed.tum.de/cms/home/) led by [Prof. André Borrmann](https://www.professoren.tum.de/en/borrmann-andre)  at Technical University of Munich
+
 Aug. 20, 2022, Published our first [CBIM position paper](https://doi.org/10.1016/j.aei.2022.101711). We systematically describe what's the future of BIM collaboration
 
 April 10, 2022, Started to visit [CIT lab](https://cit.eng.cam.ac.uk/) at the University of Cambridge
