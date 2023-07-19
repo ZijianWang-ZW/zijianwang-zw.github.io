@@ -35,9 +35,12 @@ author_profile: true
  10. Peng, X., Yimin, W., **Wang, Z.\*** and Le, H., 2020. Distribution laws of freeze-thaw cycles and unsaturated concrete experiments in cold-region tunnels. *Cold Regions Science and Technology*, 172, p.102985. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102985)
 
  11. Wu, Y., Xu, P.\*, Li, W., **Wang, Z.**, Cai, Z. and Shao, S., 2020. Distribution rules and key features for the lining surface temperature of road tunnels in cold regions. *Cold regions science and technology*, 172, p.102979. [Paper link](https://doi.org/10.1016/j.coldregions.2019.102979)
-
+   
     ------------------------------------
 
     ***Tunnel 3D Reconstruction**  (Undergraduate Project at CQJTU)*
 
  12. **Wang, Z.**, Ma H., Xiong Y., Yang Q., Zheng J.\*, 2018. The method of tunnel 3D reconstruction basing on changeable photography. *Science of Surveying and Mapping (in Chinese)*. 06, 72-77. [Paper link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CHKD201806012&v=MjcxNjJDVVI3cWZadVJ1Rml6aFVMdkpKaVhBYXJHNEg5bk1xWTlFWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=)
+
+ 
+
