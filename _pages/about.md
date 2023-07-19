@@ -27,6 +27,24 @@ Research Interests
 <br/>
 
 
+Selected Publications
+======
+
+- **Wang, Z.\***, Ouyang, B. and Sacks, R., 2023. Graph-based inter-domain consistency maintenance for BIM models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
+
+- Sacks, R.\*, **Wang, Z.**, Ouyang, B., Utkucu, D., Chen, S., 2022. Toward artificially intelligent cloud-based building information modelling for collaborative multidisciplinary design. *Advanced Engineering Informatics*, p. 101711. [Paper link](https://doi.org/10.1016/j.aei.2022.101711), [Data](https://github.com/terry-oy/CBIM-position)
+
+- **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
+
+
+- **Wang, Z.**, Cai, Z. and Wu, Y.\*, 2023. An improved YOLOX approach for low-light and small object detection: PPE on tunnel construction sites. Journal of Computational Design and Engineering, 10(3), pp.1158-1175. [Paper link](https://doi.org/10.1093/jcde/qwad042)
+
+
+
+
+<br/>
+
+
 News
 ======
 July. 12, 2023, Received [Thorpe Medal](https://ec-3.org/awards/thorpe-metal/) from EC3. Visit the awarded paper which applies GNN to enrich BIM graphs [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908)
@@ -46,23 +64,5 @@ Oct. 14, 2021: Obtained the [Eastman Best Ph.D. Paper](https://www.linkedin.com/
 Sept. 5, 2021: Delivered a seminar about my Ph.D. research proposal at the Technion ([recording](https://www.youtube.com/watch?v=FPUmSKJYbcs&ab_channel=VirtualConstructionLabTechnion))
 
 Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) and a Ph.D. student at the Technion
-
-
-
-<br/>
-
-
-Selected Publications
-======
-
-- **Wang, Z.\***, Ouyang, B. and Sacks, R., 2023. Graph-based inter-domain consistency maintenance for BIM models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
-
-- Sacks, R.\*, **Wang, Z.**, Ouyang, B., Utkucu, D., Chen, S., 2022. Toward artificially intelligent cloud-based building information modelling for collaborative multidisciplinary design. *Advanced Engineering Informatics*, p. 101711. [Paper link](https://doi.org/10.1016/j.aei.2022.101711), [Data](https://github.com/terry-oy/CBIM-position)
-
-- **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
-
-
-- **Wang, Z.**, Cai, Z. and Wu, Y.\*, 2023. An improved YOLOX approach for low-light and small object detection: PPE on tunnel construction sites. Journal of Computational Design and Engineering, 10(3), pp.1158-1175. [Paper link](https://doi.org/10.1093/jcde/qwad042)
-
 
 <br/>
