@@ -1,10 +1,10 @@
 ---
 title: "Graph-based inter-domain consistency maintenance for BIM models"
 collection: talks
-type: "Research project"
+type: "CBIM research"
 permalink: /talks/cbim_prototype
 venue: "Technion"
-date: 2023-07-19
+date: 2023-08-04
 location: "Haifa, Israel"
 ---
 
