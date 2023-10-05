@@ -17,6 +17,9 @@ location: "Haifa, Israel"
 
 
 
+
+
+
 Even with modern BIM software, design collaboration across disciplines for building construction remains sequential and siloed. Cloud-based BIM (CBIM) proposes an alternative approach, in which BIM models are stored as discipline-specific graphs whose nodes are linked to support across-domain coordination. 
 
 

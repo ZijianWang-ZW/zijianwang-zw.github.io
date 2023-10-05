@@ -8,6 +8,8 @@ author_profile: true
 ---------------------------------------------
 ​***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
+[13] **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2023. A Framework for Generic Semantic Enrichment of BIM Models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
+
 [12] **Wang, Z.\***, Ouyang, B. and Sacks, R., 2023. Graph-based inter-domain consistency maintenance for BIM models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
 
 [11]   **Wang, Z.\***, Ying, H., Sacks, R. and Borrmann, A., 2023. CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment. In *Proc. of The 30th EG-ICE: International Conference on Intelligent Computing in Engineering*. [Paper link](https://www.ucl.ac.uk/bartlett/construction/sites/bartlett_construction/files/1339.pdf)
