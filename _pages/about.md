@@ -49,6 +49,10 @@ Selected Publications
 
 News
 ======
+Oct. 1, 2023, Started the secondement at [Trimble (Finland)](https://www.trimble.com/en), participated in the Live Collaboration project
+
+Sept. 26, 2023, Delivered the second PhD seminar at Technion: [Graph Represetation of Building Information Models](https://youtu.be/fYasvx-MV-Q?si=nUcM8DH0GNpsMQuP)
+
 July. 12, 2023, Received [Thorpe Medal](https://ec-3.org/awards/thorpe-metal/) from EC3. Visit the awarded paper which applies GNN to enrich BIM graphs [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908)
 
 Oct. 8, 2022, Started to visit [CMS chair](https://www.cee.ed.tum.de/cms/home/) led by [Prof. André Borrmann](https://www.professoren.tum.de/en/borrmann-andre)  at Technical University of Munich
