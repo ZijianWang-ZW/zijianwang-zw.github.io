@@ -49,17 +49,17 @@ Selected Publications
 
 News
 ======
-Oct. 1, 2023, Started the secondement at [Trimble (Finland)](https://www.trimble.com/en), participated in the Live Collaboration project
+Oct. 1, 2023: Started to visit [Trimble Finland](https://www.trimble.com/en) to conduct CBIM cloud collaboration prototypes, and participated in Trimble Live Collaboration project.
 
-Sept. 26, 2023, Delivered the second PhD seminar at Technion: [Graph Represetation of Building Information Models](https://youtu.be/fYasvx-MV-Q?si=nUcM8DH0GNpsMQuP)
+Sept. 26, 2023: Delivered the second PhD seminar at Technion about *Graph Representation of Building Information Models* [video](https://youtu.be/fYasvx-MV-Q?feature=shared)
 
-July. 12, 2023, Received [Thorpe Medal](https://ec-3.org/awards/thorpe-metal/) from EC3. Visit the awarded paper which applies GNN to enrich BIM graphs [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908)
+July. 12, 2023: Received [Thorpe Medal](https://ec-3.org/awards/thorpe-metal/) from EC3. Visit the awarded paper which applies GNN to enrich BIM graphs [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908)
 
-Oct. 8, 2022, Started to visit [CMS chair](https://www.cee.ed.tum.de/cms/home/) led by [Prof. André Borrmann](https://www.professoren.tum.de/en/borrmann-andre)  at Technical University of Munich
+Oct. 8, 2022: Started to visit [CMS chair](https://www.cee.ed.tum.de/cms/home/) led by [Prof. André Borrmann](https://www.professoren.tum.de/en/borrmann-andre)  at Technical University of Munich
 
-Aug. 20, 2022, Published our first [CBIM position paper](https://doi.org/10.1016/j.aei.2022.101711). We systematically describe what's the future of BIM collaboration
+Aug. 20, 2022: Published our first [CBIM position paper](https://doi.org/10.1016/j.aei.2022.101711). We systematically describe what's the future of BIM collaboration
 
-April 10, 2022, Started to visit [CIT lab](https://cit.eng.cam.ac.uk/) at the University of Cambridge
+April 10, 2022: Started to visit [CIT lab](https://cit.eng.cam.ac.uk/) at the University of Cambridge
 
 Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) at Automation in Construction
 
