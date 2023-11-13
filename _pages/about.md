@@ -34,9 +34,9 @@ Selected Publications
 
 - Sacks, R.\*, **Wang, Z.**, Ouyang, B., Utkucu, D., Chen, S., 2022. Toward artificially intelligent cloud-based building information modelling for collaborative multidisciplinary design. *Advanced Engineering Informatics*, p. 101711. [Paper link](https://doi.org/10.1016/j.aei.2022.101711), [Data](https://github.com/terry-oy/CBIM-position)
 
-- **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2023. A Framework for Generic Semantic Enrichment of BIM Models. *Journal of Computing in Civil Engineering*, 38(1), pp. 1–18. [Paper link](https://doi.org/10.1061/JCCEE5.CPENG-5487)
+- **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2024. A Framework for Generic Semantic Enrichment of BIM Models. *Journal of Computing in Civil Engineering*, 38(1), p.04023038. [Paper link](https://doi.org/10.1061/JCCEE5.CPENG-5487)
 
-- **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
+- **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [**Awarded Thrope Medal**](https://ec-3.org/awards/thorpe-metal/), [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
 
 - **Wang, Z.**, Cai, Z. and Wu, Y.\*, 2023. An improved YOLOX approach for low-light and small object detection: PPE on tunnel construction sites. Journal of Computational Design and Engineering, 10(3), pp.1158-1175. [Paper link](https://doi.org/10.1093/jcde/qwad042)

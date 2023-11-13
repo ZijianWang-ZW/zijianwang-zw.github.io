@@ -8,7 +8,7 @@ author_profile: true
 ---------------------------------------------
 ​***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
 
-[13] **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2023. A Framework for Generic Semantic Enrichment of BIM Models. *Journal of Computing in Civil Engineering*, 38(1), pp. 1–18. [Paper link](https://doi.org/10.1061/JCCEE5.CPENG-5487)
+[13] **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2024. A Framework for Generic Semantic Enrichment of BIM Models. *Journal of Computing in Civil Engineering*, 38(1), p.04023038. [Paper link](https://doi.org/10.1061/JCCEE5.CPENG-5487)
 
 [12] **Wang, Z.\***, Ouyang, B. and Sacks, R., 2023. Graph-based inter-domain consistency maintenance for BIM models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
 
@@ -20,7 +20,7 @@ author_profile: true
 
 [8] Ouyang, B., **Wang, Z.\***, Sacks, R., 2022. Semantic Enrichment of Object Associations across Federated BIM Semantic Graphs in a Common Data Environment. In *Proc. of European Conference on Product and Process Modeling (ECPPM) 2022*. [Paper link](https://www.researchgate.net/publication/363700471_Semantic_Enrichment_of_Object_Associations_across_Federated_BIM_Semantic_Graphs_in_a_Common_Data_Environment)
 
-[7] **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
+[7] **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [**Awarded Thrope Medal**](https://ec-3.org/awards/thorpe-metal/), [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908),  [Source code](https://github.com/ZijianWang1995/SAGE-E)
 
 [6] **Wang, Z.**, Yeung, T., Sacks, R.\* and Su, Z., 2021, October. Room Type Classification for Semantic Enrichment of Building Information Modeling Using Graph Neural Networks. In *Proc. of the Conference CIB W78* (Vol. 2021, pp. 11-15). **Best Paper Award** [Paper link](http://itc.scix.net/paper/w78-2021-paper-077)
 
