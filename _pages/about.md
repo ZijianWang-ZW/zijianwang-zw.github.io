@@ -53,6 +53,42 @@ Selected Publications
 <br/>
 
 
+
+
+News
+======
+
+<div id="news-container" markdown="1">
+  <div class="news-item">Jan. 9, 2024: Successfully defended my PhD – I am Dr. Wang now!</div>
+  <div class="news-item">Oct. 1, 2023: Started to visit [Trimble Finland](https://www.trimble.com/en) ... </div>
+  <div class="news-item">Sept. 26, 2023: Delivered the second PhD seminar at Technion ... </div>
+  <div class="news-item">July. 12, 2023: Received [Thorpe Medal](https://ec-3.org/awards/thorpe-metal/) ... </div>
+  <div class="news-item">Oct. 8, 2022: Started to visit [CMS chair](https://www.cee.ed.tum.de/cms/home/) ... </div>
+  <div id="hidden-news" style="display: none;">
+    <div class="news-item">Aug. 20, 2022: Published our first [CBIM position paper](https://doi.org/10.1016/j.aei.2022.101711) ... </div>
+    <div class="news-item">April 10, 2022: Started to visit [CIT lab](https://cit.eng.cam.ac.uk/) at the University of Cambridge </div> 
+    <div class="news-item">Dec. 1, 2021: Published our first [GNN in BIM paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908) ...</div>
+    <div class="news-item">Nov. 17, 2021: Defensed my PhD research proposal successfully ...</div>
+    <div class="news-item">Oct. 14, 2021: Obtained the [Eastman Best Ph.D. Paper](https://www.linkedin.com/posts/cbim2020_cbim-bim-gnn-activity-6855036208762912768-vDRI) ... </div>
+    <div class="news-item">Sept. 5, 2021: Delivered a seminar about my Ph.D. research proposal at the Technion ...</div>
+    <div class="news-item">Nov. 5, 2020: Became a Marie-Curie researcher in [CBIM project](https://cbim2020.net.technion.ac.il/) ... </div>
+  </div>
+</div>
+
+<button id="show-more-news">Show More</button>
+
+<script>
+  const showMoreButton = document.getElementById('show-more-news');
+  const hiddenNews = document.getElementById('hidden-news');
+
+  showMoreButton.addEventListener('click', () => {
+    hiddenNews.style.display = 'block'; // Show hidden news
+    showMoreButton.style.display = 'none'; // Hide the button
+  });
+</script>
+
+
+
 News
 ======
 Jan. 9, 2024: Successfully defended my PhD – I am Dr. Wang now!
