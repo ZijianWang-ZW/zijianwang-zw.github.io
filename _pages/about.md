@@ -22,10 +22,10 @@ Research Interests
 ======
 **Building Information Graphs (BIG)** 
 
-The fragmented nature of the construction industry ecessitates close collaboration among design disciplines and requires extensive information exchange without data loss. Despite advances in BIM technology, design teams still rely on a sequential file-based process for sharing information
+The fragmented nature of the construction industry necessitates close collaboration among design disciplines and requires extensive information exchange without data loss. Despite advances in BIM technology, design teams still rely on a sequential file-based process for sharing information
 during design, resulting in issues like clashes, and lack of intelligence. 
 
-We have proposed and validated a novel method to enhance BIM design collaboration by compiling and linking building information in graph format. The establishment of object relationships enables numerous intelligent BIM applications, such as consistency maintenance, object-level version control, and easing interoperability.
+We have proposed and validated a novel method to enhance BIM design collaboration by compiling and linking building information in graph format. The instantiation of object relationships enables numerous intelligent BIM applications, such as consistency maintenance, object-level version control, and easing interoperability.
 
 Moreover, graphs offer a machine-readable format for understanding design information, making it suitable for learning applications. We are delving into the basics of building information graphs to enable computers to learn from design patterns and facilitate more intelligent applications.
 
