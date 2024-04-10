@@ -9,7 +9,7 @@ redirect_from:
 ---
 Biography
 ======
-Zijian Wang (王资健) is a Ph.D. candidate at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He is also a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) received funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2020) and the second master's degree in civil engineering from Central South University. He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited the University of Cambridge, Technical University of Munich, Nagaoka University of Technology in Japan and Thammasat University in Thailand. 
+Dr. Zijian Wang (王资健) is a researcher at the Technion - Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He obtained his PhD degree from Technion Israel Institute of Technion as a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) receiving funding from EU Horizon 2020 (since November 2020). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2020) and the second master's degree in civil engineering from Central South University. He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited the University of Cambridge, Technical University of Munich, Nagaoka University of Technology in Japan and Thammasat University in Thailand. 
 
 As an interdisciplinary researcher, he has strong background in both civil engineering and machine learning, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
 
@@ -20,7 +20,14 @@ As an interdisciplinary researcher, he has strong background in both civil engin
 
 Research Interests
 ======
-**AI in BIM Graph.** We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
+**Building Information Graphs (BIG)** 
+The fragmented nature of the construction industry ecessitates close collaboration among design disciplines and requires extensive information exchange without data loss. Despite advances in BIM technology, design teams still rely on a sequential file-based process for sharing information
+during design, resulting in issues like clashes, and lack of intelligence. We have proposed and validated a novel graph-based approach to enhance BIM design collaboration.
+Building information from multidisciplines are compiled as graphs and linked 
+
+represent and link
+building information for implementing intelligent applications and enhancing interoperability.
+We, the CBIM Technion research team, explore what the next generation of BIM is. Our answer is Cloud-based BIM (CBIM). My research is to test the most fundamental framework and techniques of CBIM -- graph representation of BIM models and semantic enrichment for BIM graphs. From a BIM view, my work is to explore all possible AI techniques to enrich BIM semantics, including inferring implicit BIM objects, BIM relationships, and across-domain BIM links. From a computer science view, I am dealing with graph node classification, single graph link prediction, multiple graph link prediction tasks by using graph neural networks (GNN), deep learning, and machine learning. 
 
 
 
@@ -49,6 +56,8 @@ Selected Publications
 
 News
 ======
+Jan. 9, 2024: Successfully defended my PhD – I am Dr. Wang now!
+
 Oct. 1, 2023: Started to visit [Trimble Finland](https://www.trimble.com/en) to conduct CBIM cloud collaboration prototypes, and participated in Trimble Live Collaboration project.
 
 Sept. 26, 2023: Delivered the second PhD seminar at Technion about *Graph Representation of Building Information Models* [video](https://youtu.be/fYasvx-MV-Q?feature=shared)
