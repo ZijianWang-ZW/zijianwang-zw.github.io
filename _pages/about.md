@@ -56,6 +56,8 @@ Selected Publications
  
 News
 ======
+Feb. 1, 2024: Started the Post-doc position at Technion, continuing the collaboration with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). 
+
 Jan. 9, 2024: Successfully defended my PhD – I am Dr. Wang now!
 
 Oct. 1, 2023: Started to visit [Trimble Finland](https://www.trimble.com/en) to conduct CBIM cloud collaboration prototypes, and participated in Trimble Live Collaboration project.
