@@ -18,9 +18,8 @@ As an interdisciplinary researcher, he has strong background in both civil engin
 <br/>
 
 
-Research Interests
+Research Interests: Building Information Graphs (BIG)
 ======
-**Building Information Graphs (BIG)** 
 
 The fragmented nature of the construction industry necessitates close collaboration among design disciplines and requires extensive information exchange without data loss. Despite advances in BIM technology, design teams still rely on a sequential file-based process for sharing information
 during design, resulting in issues like clashes, and lack of intelligence. 
