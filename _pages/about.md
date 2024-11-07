@@ -24,6 +24,7 @@ BIGs aim to adopt graphs as an alternative information modeling method to suppor
 <br/>
 
 
+ 
 Selected Publications
 ======
 
@@ -43,7 +44,15 @@ Selected Publications
 
 <br/>
 
+Awards
+======
 
+- Thorpe Medal, European Council on Computing in Construction (EC3) (2023)
+
+- Eastman Best Ph.D. Paper, Int Joint Conference CIB W78 - LDAC (2021)
+
+
+<br/>
  
 News
 ======
