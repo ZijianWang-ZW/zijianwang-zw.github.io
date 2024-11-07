@@ -9,25 +9,17 @@ redirect_from:
 ---
 Biography
 ======
-Dr. Zijian Wang (王资健) is a Post-doc researcher at the Technion Israel Institute of Technology, where he works at VClab with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). He obtained his PhD degree from Technion Israel Institute of Technion as a Marie-Curie early-stage researcher in the [CBIM project](https://cbim2020.net.technion.ac.il/) receiving funding from EU Horizon 2020 (November 2020 -- January 2024). Before that, he obtained his master's degree in computer and machine vision from Cranfield University (2019 - 2020) and the second master's degree in civil engineering from Central South University. He received his bachelor's degree in civil engineering (underground and tunnel engineering) from Chongqing Jiaotong University (2014 - 2018). He also visited the University of Cambridge, Technical University of Munich, Nagaoka University of Technology in Japan and Thammasat University in Thailand. 
+Dr. Zijian Wang (王资健) is an independent postdoctoral researcher at the TUM Georg Nemetschek Institute (GNI). He obtained his PhD from Technion Israel Institute of Technology as a Marie Curie Early-Stage Researcher in the [Cloud BIM (CBIM) project](https://cbim2020.net.technion.ac.il/), funded by the EU Horizon 2020 program (November 2020 – January 2024). He worked under the supervision of [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). Before that, he completed a master’s degree in Computer and Machine Vision at Cranfield University (2019–2020) and a second master’s in Civil Engineering at Central South University. He received his bachelor’s degree in Civil Engineering from Chongqing Jiaotong University (2014–2018). He has also visited the University of Cambridge as a researcher (2022) and worked at Trimble Finland (2023).
 
-As an interdisciplinary researcher, he has strong background in both civil engineering and machine learning, and desires to promote the digitalization of construction industry by applying advanced computer science techniques. 
-
-
+As an interdisciplinary researcher with expertise in both civil engineering and machine learning, he is dedicated to advancing digitalization in the construction industry through the application of advanced computer science techniques. 
 
 <br/>
 
 
-Research Interests: Building Information Graphs (BIG)
+Current Research: Building Information Graphs (BIGs)
 ======
 
-The fragmented nature of the construction industry necessitates close collaboration among design disciplines and requires extensive information exchange without data loss. Despite advances in BIM technology, design teams still rely on a sequential file-based process for sharing information
-during design, resulting in issues like clashes, and lack of intelligence. 
-
-We have proposed and validated a novel method to enhance BIM design collaboration by compiling and linking building information in graph format. The instantiation of object relationships enables numerous intelligent BIM applications, such as consistency maintenance, object-level version control, and easing interoperability.
-
-Moreover, graphs offer a machine-readable format for understanding design information, making it suitable for learning applications. We are delving into the basics of building information graphs to enable computers to learn from design patterns and facilitate more intelligent applications.
-
+BIGs aim to adopt graphs as an alternative information modeling method to support graph learning and graph applications. Graphs inherently capture relationships explicitly between objects, enabling a more detailed, object-level data representation. Graphs are also flexible in representing and embedding multi-modal data in a machine-accessible format, enabling computational learning. By transforming design information into graphs, BIGs could enable a variety of innovative graph applications that current BIM technologies struggle to support, such as multidisciplinary change propagation, automated consistency maintenance, object-based version control, and more. This approach has the potential to foster a more collaborative, intelligent, and generative future in design.
 
 <br/>
 
@@ -55,6 +47,8 @@ Selected Publications
  
 News
 ======
+Nov. 1, 2024: Started the new independent Post-doc scientist position at [Georg Nemetschek Institute (GNI)](https://www.mdsi.tum.de/en/gni/home/) of Technical University of Munich (TUM). 
+
 Feb. 1, 2024: Started the Post-doc position at Technion, continuing the collaboration with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). 
 
 Jan. 9, 2024: Successfully defended my PhD – I am Dr. Wang now!
