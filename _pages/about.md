@@ -16,6 +16,16 @@ As an interdisciplinary researcher with expertise in both civil engineering and 
 <br/>
 
 
+Startup: SiloLink
+======
+
+I am the **Founder** of [**SiloLink**](https://www.silolink.ai/) — *AI for BIM coordination*. We start with **AI clash review**: SiloLink turns thousands of raw clashes into a handful of decisions, so BIM managers spend their time solving problems instead of sorting through noise. Our vision is to make multidisciplinary coordination effortless across the built environment.
+
+SiloLink is backed by the [TUM Georg Nemetschek Institute](https://www.mdsi.tum.de/en/gni/home/) and [TUM Venture Labs](https://www.tumventurelabs.de/).
+
+<br/>
+
+
 Current Research: Building Information Graphs (BIGs)
 ======
 
@@ -28,6 +38,8 @@ BIGs aim to adopt graphs as an alternative information modeling method to suppor
 Selected Publications
 ======
 
+- **Wang, Z.\*** and Sacks, R., 2025. Building Information Graphs (BIGs): remodeling building information for learning and applications. *Data-Centric Engineering*, 6, e44. [Paper link](https://doi.org/10.1017/dce.2025.10024)
+
 - **Wang, Z.\***, Ouyang, B. and Sacks, R., 2023. Graph-based inter-domain consistency maintenance for BIM models. *Automation in Construction*, 154, p.104979. [Paper link](https://doi.org/10.1016/j.autcon.2023.104979)
 
 - Sacks, R.\*, **Wang, Z.**, Ouyang, B., Utkucu, D., Chen, S., 2022. Toward artificially intelligent cloud-based building information modelling for collaborative multidisciplinary design. *Advanced Engineering Informatics*, p. 101711. [Paper link](https://doi.org/10.1016/j.aei.2022.101711), [Data](https://github.com/terry-oy/CBIM-position)
@@ -35,9 +47,6 @@ Selected Publications
 - **Wang, Z.\***, Sacks, R., Ouyang, B., Ying, H. and Borrmann, A., 2024. A Framework for Generic Semantic Enrichment of BIM Models. *Journal of Computing in Civil Engineering*, 38(1), p.04023038. [Paper link](https://doi.org/10.1061/JCCEE5.CPENG-5487)
 
 - **Wang, Z.\***, Sacks, R. and Yeung, T., 2021. Exploring graph neural networks for semantic enrichment: Room type classification. *Automation in Construction*, p.104039. [**Awarded Thrope Medal**](https://ec-3.org/awards/thorpe-metal/), [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0926580521004908), [Source code](https://github.com/ZijianWang1995/SAGE-E)
-
-
-- **Wang, Z.**, Cai, Z. and Wu, Y.\*, 2023. An improved YOLOX approach for low-light and small object detection: PPE on tunnel construction sites. Journal of Computational Design and Engineering, 10(3), pp.1158-1175. [Paper link](https://doi.org/10.1093/jcde/qwad042)
 
 
 
@@ -56,6 +65,8 @@ Awards
  
 News
 ======
+Sept. 15, 2025: Published our [Building Information Graphs (BIGs) vision paper](https://doi.org/10.1017/dce.2025.10024) at *Data-Centric Engineering*. We propose graphs as a learnable, interoperable medium to remodel BIM for the AI era.
+
 Nov. 1, 2024: Started the new independent Post-doc scientist position at [Georg Nemetschek Institute (GNI)](https://www.mdsi.tum.de/en/gni/home/) of Technical University of Munich (TUM). 
 
 Feb. 1, 2024: Started the Post-doc position at Technion, continuing the collaboration with [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). 

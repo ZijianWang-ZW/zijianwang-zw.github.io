@@ -6,7 +6,21 @@ author_profile: true
 ---
 
 ---------------------------------------------
-​***Graph Representation of BIM Models** (Ph.D. Project at Technion)*
+​***Graph Representation of BIM Models** (Ph.D. and Postdoc Research)*
+
+[21] **Wang, Z.\***, Barak, R., Sacks, R., Yevu, S.K., Bentur, A. and Hadjidemetriou, G.M., 2026. Construction productivity and digital technologies. *Automation in Construction*, 183, p.106768. [Paper](https://doi.org/10.1016/j.autcon.2026.106768)
+
+[20] **Wang, Z.\*** and Sacks, R., 2025. Building Information Graphs (BIGs): remodeling building information for learning and applications. *Data-Centric Engineering*, 6, e44. [Paper](https://doi.org/10.1017/dce.2025.10024)
+
+[19] **Wang, Z.\*** and Ying, H., 2025. Graph Representation Learning: Embedding Multimodality BIM Models into Graphs. In *Proc. of the 2025 European Conference on Computing in Construction (EC³)*. [Paper](https://doi.org/10.35490/EC3.2025.286)
+
+[18] Dalach, A., **Wang, Z.**, Nousias, S. and Borrmann, A., 2025. Exploring building energy performance prediction using graph neural networks. In *Proc. of EG-ICE 2025*, pp. 595-604. [Paper](https://doi.org/10.17868/strath.00093246)
+
+[17] He, C., Liu, M., He, W., **Wang, Z.** and Hsiang, S., 2025. Addressing the information silo of construction planning constraints – a graph retrieval augmented generation approach. *Engineering, Construction and Architectural Management*. [Paper](https://doi.org/10.1108/ECAM-08-2024-1066)
+
+[16] **Wang, Z.\***, Ying, H. and Sacks, R., 2024. Two Fundamental Questions Concerning BIM Data Representation for Machine Learning. In *Proc. of the 41st International Conference of CIB W78*, Marrakech, Morocco. [Paper](https://itc.scix.net/paper/w78-2024-25)
+
+[15] **Wang, Z.\***, Ying, H. and Nyberg, K., 2024. Graph-based change propagation across BIM design software applications. In *Proc. of the 2024 ASCE International Conference on Computing in Civil Engineering (I3CE)*, Pittsburgh, PA. [Paper](https://www.researchgate.net/publication/382960858)
 
 [14] Utkucu, D., Ying, H., **Wang, Z.** and Sacks, R., 2024. Classification of architectural and MEP BIM objects for building performance evaluation. Advanced Engineering Informatics, 61, p.102503. [Paper](https://doi.org/10.1016/j.aei.2024.102503), [Dataset](https://github.com/duyguutkucu/BIMObjectDataset/tree/main)
 
