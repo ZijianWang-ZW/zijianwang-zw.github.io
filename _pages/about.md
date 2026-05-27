@@ -9,7 +9,7 @@ redirect_from:
 ---
 Biography
 ======
-Dr. Zijian Wang (王资健) is an independent postdoctoral researcher at the TUM Georg Nemetschek Institute (GNI). He obtained his PhD from Technion Israel Institute of Technology as a Marie Curie Early-Stage Researcher in the [Cloud BIM (CBIM) project](https://cbim2020.net.technion.ac.il/), funded by the EU Horizon 2020 program (November 2020 – January 2024). He worked under the supervision of [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). Before that, he completed a master’s degree in Computer and Machine Vision at Cranfield University (2019–2020) and a second master’s in Civil Engineering at Central South University. He received his bachelor’s degree in Civil Engineering from Chongqing Jiaotong University (2014–2018). He has also visited the University of Cambridge as a researcher (2022) and worked at Trimble Finland (2023).
+Dr. Zijian Wang (王资健) is an independent postdoctoral researcher at the [TUM Georg Nemetschek Institute (GNI)](https://www.mdsi.tum.de/en/gni/home/), and founder of [SiloLink](https://www.silolink.ai/), an AI startup for BIM coordination. He obtained his PhD from Technion Israel Institute of Technology as a Marie Curie Early-Stage Researcher in the [Cloud BIM (CBIM) project](https://cbim2020.net.technion.ac.il/), funded by the EU Horizon 2020 program (November 2020 – January 2024). He worked under the supervision of [Prof. Rafael Sacks](https://sacks.net.technion.ac.il/). Before that, he completed a master’s degree in Computer and Machine Vision at Cranfield University (2019–2020) and a second master’s in Civil Engineering at Central South University. He received his bachelor’s degree in Civil Engineering from Chongqing Jiaotong University (2014–2018). He has also visited the University of Cambridge as a researcher (2022) and worked at Trimble Finland (2023).
 
 As an interdisciplinary researcher with expertise in both civil engineering and machine learning, he is dedicated to advancing digitalization in the construction industry through the application of advanced computer science techniques. 
 
@@ -19,7 +19,7 @@ As an interdisciplinary researcher with expertise in both civil engineering and 
 Startup: SiloLink
 ======
 
-I am the **Founder** of [**SiloLink**](https://www.silolink.ai/) — *AI for BIM coordination*. We start with **AI clash review**: SiloLink turns thousands of raw clashes into a handful of decisions, so BIM managers spend their time solving problems instead of sorting through noise. Our vision is to make multidisciplinary coordination effortless across the built environment.
+I am exploring how to apply cutting-edge research as a tangible engineering product that can really help industry experts to save time and budget. We start with **AI clash review**: [**SiloLink**](https://www.silolink.ai/) turns thousands of raw clashes into a handful of decisions, so BIM managers spend their time solving problems instead of sorting through noise. Our vision is to make multidisciplinary coordination effortless across the built environment.
 
 SiloLink is backed by the [TUM Georg Nemetschek Institute](https://www.mdsi.tum.de/en/gni/home/) and [TUM Venture Labs](https://www.tumventurelabs.de/).
 
